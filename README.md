@@ -1,2 +1,2 @@
 # llm-yara-security
-Simple notebook example of using YARA rules to scan both prompt input and model output using python
+Simple notebook example of using YARA rules to scan both LLM prompt input and output (as well as any other string) using python
